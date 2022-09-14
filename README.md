@@ -8,7 +8,7 @@ This repository has been created to test the version 2.26.1 of the AzureAd Terra
 
 - [X] [Terraform](https://www.terraform.io/downloads)
 
-## How to Use this Repo
+## How to Use this Repository
 
 - Clone this repository:
 ```shell
