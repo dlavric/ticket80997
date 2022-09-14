@@ -1,6 +1,6 @@
 # ticket80997
 
-This repository has been created to test the version 2.26.1 of the Azuread Terraform provider 
+This repository has been created to test the version 2.26.1 of the Azuread Terraform provider. 
 
 ## Instructions
 
